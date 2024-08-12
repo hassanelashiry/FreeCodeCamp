@@ -1,2 +1,5 @@
 # FreeCodeCamp
-Blockchain projects
+## Blockchain projects
+using Solidity to create the contract
+And Python to deploy it
+
