@@ -1,0 +1,7 @@
+# grap info about where we gonna build 
+# where we gonna deploy and so on
+
+dotenv: .env # when i run scripts bring env form .env file
+
+wallets: # what and when wallets we ganna use
+  from_key : ${PRIVATE_KEY} # automatically transform to env variable
